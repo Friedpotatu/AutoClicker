@@ -1,6 +1,6 @@
 # Autoclicker con Pynput
 
-Este es un script de autoclicker en Python que permite iniciar y detener el clic automático del botón derecho del ratón presionando la tecla `a`. El programa se detiene completamente al presionar la tecla `b`.
+Este es un script de autoclicker en Python que permite iniciar y detener el clic automático del botón izquierdo del ratón presionando la tecla `a`. El programa se detiene completamente al presionar la tecla `b`.
 
 ## Requisitos
 
